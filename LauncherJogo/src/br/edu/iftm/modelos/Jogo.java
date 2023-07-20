@@ -8,12 +8,7 @@ public class Jogo {
 	private String icone;
 	private String fundo;
 	
-	public Jogo(String nome, String caminho, String icone, String fundo) {
-		this.nome = nome;
-		this.caminho = caminho;
-		this.icone = icone;
-		this.fundo = fundo;
-	}
+	
 	
 	public Jogo(JSONObject jsonObject) {
 		this.nome = jsonObject.getString("nome");

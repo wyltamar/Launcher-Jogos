@@ -29,8 +29,17 @@ public class BibliotecaPanel extends TelaPanel {
 			
 			jogos.add(new Jogo(jogoJObject));
 		}
+		
+	}
+	
+	
+	private void exibirJogos() {
+		
 		for (Jogo jogo : jogos) {
-			System.out.println(jogo.getIcone());
+		String icone = jogos.get(0).getIcone();
+		Imagem imagem = new Imagem(icone);
+		imagem.setBounds(1700, 0, 200, 30);
+		this.add(imagem);
 		}
 	}
 

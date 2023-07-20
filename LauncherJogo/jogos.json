@@ -3,38 +3,38 @@
  {
  	"nome" : "SA-MP",
  	"caminho" : "C::",
- 	"icone" : "icone.jpg",
- 	"fundo" : "fundo.jpg"
+ 	"icone" : "samp-logo.png",
+ 	"fundo" : "gtasa-fundo.jpg"
  },
  {
  	"nome" : "MTA",
  	"caminho" : "C::",
- 	"icone" : "icone.jpg",
- 	"fundo" : "fundo.jpg"
+ 	"icone" : "mta.logo.png",
+ 	"fundo" : "mta-fundo.png"
  },
  {
  	"nome" : "Stumbler Guys",
  	"caminho" : "C::",
- 	"icone" : "icone.jpg",
- 	"fundo" : "fundo.jpg"
+ 	"icone" : "stumbler-logo.png",
+ 	"fundo" : "stumbler-fundo.png"
  },
  {
  	"nome" : "Discord",
  	"caminho" : "C::",
- 	"icone" : "icone.jpg",
- 	"fundo" : "fundo.jpg"
+ 	"icone" : "discord-logo.png",
+ 	"fundo" : "discord-fundo.png"
  },
   {
  	"nome" : "Steam",
  	"caminho" : "C::",
- 	"icone" : "icone.jpg",
- 	"fundo" : "fundo.jpg"
+ 	"icone" : "steam-logo.png",
+ 	"fundo" : "steam-fundo.png"
  },
   {
  	"nome" : "Epic Games",
  	"caminho" : "C::",
- 	"icone" : "icone.jpg",
- 	"fundo" : "fundo.jpg"
+ 	"icone" : "epic-logo.png",
+ 	"fundo" : "epic-fundo.png"
  }
 
 ]
