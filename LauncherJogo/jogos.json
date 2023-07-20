@@ -1,0 +1,40 @@
+[
+
+ {
+ 	"nome" : "SA-MP",
+ 	"caminho" : "C::",
+ 	"icone" : "icone.jpg",
+ 	"fundo" : "fundo.jpg"
+ },
+ {
+ 	"nome" : "MTA",
+ 	"caminho" : "C::",
+ 	"icone" : "icone.jpg",
+ 	"fundo" : "fundo.jpg"
+ },
+ {
+ 	"nome" : "Stumbler Guys",
+ 	"caminho" : "C::",
+ 	"icone" : "icone.jpg",
+ 	"fundo" : "fundo.jpg"
+ },
+ {
+ 	"nome" : "Discord",
+ 	"caminho" : "C::",
+ 	"icone" : "icone.jpg",
+ 	"fundo" : "fundo.jpg"
+ },
+  {
+ 	"nome" : "Steam",
+ 	"caminho" : "C::",
+ 	"icone" : "icone.jpg",
+ 	"fundo" : "fundo.jpg"
+ },
+  {
+ 	"nome" : "Epic Games",
+ 	"caminho" : "C::",
+ 	"icone" : "icone.jpg",
+ 	"fundo" : "fundo.jpg"
+ }
+
+]
